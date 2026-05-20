@@ -1,0 +1,6 @@
+com/example/vulnerablelogin/AccountApiController.class
+com/example/vulnerablelogin/Account.class
+com/example/vulnerablelogin/VulnerableLoginApplication.class
+com/example/vulnerablelogin/WebController.class
+com/example/vulnerablelogin/AccountRepository.class
+com/example/vulnerablelogin/AccountRequest.class
